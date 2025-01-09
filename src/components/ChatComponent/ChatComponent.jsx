@@ -1,5 +1,3 @@
-
-
 import React, { useState } from 'react';
 import { runFlow } from '../../services/apiService';
 import './ChatComponent.css'; // Import the CSS file for styling

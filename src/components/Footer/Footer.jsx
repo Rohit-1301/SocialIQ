@@ -1,5 +1,3 @@
-
-
 import React from 'react'
 import { Link, NavLink } from 'react-router-dom'
 
@@ -32,7 +30,7 @@ export default function Footer() {
                             <ul className="text-gray-400 font-medium">
                                 <li className="mb-4">
                                     <a
-                                        href="https://github.com/Kamraanmulani"
+                                        href="https://github.com/Rohit-1301/SocialIQ.git"
                                         className="hover:underline"
                                         target="_blank"
                                         rel="noreferrer"

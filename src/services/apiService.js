@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 62bf51c62269a49f45c43ea01a8b211fa1a918a5
 import axios from 'axios';
 
 // Load environment variables from the .env file
